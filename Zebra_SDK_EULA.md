@@ -1,6 +1,4 @@
-﻿<a name="br1"></a> 
-
-**End User License Agreement**
+﻿**End User License Agreement**
 
 **(UNRESTRICTED SOFTWARE)**
 
@@ -20,9 +18,9 @@ OF THE TERMS OF THIS EULA. IF LICENSEE DOES NOT ACCEPT THESE TERMS,
 
 LICENSEE MAY NOT USE THE SOFTWARE.
 
-1\.
 
-GRANT OF LICENSE. Zebra grants Licensee, the following rights provided that Licensee
+
+1\.    GRANT OF LICENSE. Zebra grants Licensee, the following rights provided that Licensee
 
 complies with all terms and conditions of this EULA: For Software provided with Zebra hardware,
 
@@ -76,17 +74,13 @@ terms of this EULA. Zebra makes the applicable open source licenses available to
 
 Legal Notices readme file available on Licensee’s device and/or in System Reference guides or
 
-
-
-<a name="br2"></a> 
-
 in Command Line Interface (CLI) reference guides associated with certain Zebra software or
 
 products.
 
-2\.
 
-RESERVATION OF RIGHTS AND OWNERSHIP. Zebra and its suppliers and licensors
+
+2\.    RESERVATION OF RIGHTS AND OWNERSHIP. Zebra and its suppliers and licensors
 
 reserve all rights not expressly granted to Licensee in this EULA. The Software is protected by
 
@@ -106,9 +100,9 @@ third-party licensor’s legal or equitable rights (including injunctive relief)
 
 any nature whatsoever under or by reason of this EULA.
 
-3\.
 
-LIMITATIONS ON END USER RIGHTS. Licensee shall not distribute, sublicense, rent,
+
+3\.    LIMITATIONS ON END USER RIGHTS. Licensee shall not distribute, sublicense, rent,
 
 loan, lease, export, re-export, resell, ship or divert or cause to be exported, re-exported, resold,
 
@@ -128,9 +122,9 @@ any computer software or hardware which is designed to defeat any copy protectio
 
 should the Software be equipped with such a protection device.
 
-4\.
 
-MACHINE DATA. “Machine Data” means usage data collected by software or devices sold
+
+4\.    MACHINE DATA. “Machine Data” means usage data collected by software or devices sold
 
 (or licensed) under this EULA such as battery management (time to empty, standby current,
 
@@ -150,9 +144,9 @@ Licensee is deemed to have any ownership rights in Machine Data, Licensee hereby
 
 Zebra a limited, irrevocable, non-exclusive right and license to use Machine Data.
 
-5\.
 
-AGGREGATE DATA COLLECTION. Licensee acknowledges and agrees that Zebra may as
+
+5\.    AGGREGATE DATA COLLECTION. Licensee acknowledges and agrees that Zebra may as
 
 permitted by law (a) collect, process, and use aggregated data, stored by or related to the
 
@@ -162,10 +156,6 @@ device incorporating the Software, and create anonymized and/or aggregated data 
 
 do not allow Zebra to identify any natural person (“Aggregate Data”), (b) use such Aggregate
 
-
-
-<a name="br3"></a> 
-
 Data to improve the Software, develop new software or services, understand industry trends,
 
 create and publish white papers, reports, or databases summarizing the foregoing, and generally
@@ -174,9 +164,9 @@ for any legitimate purpose related to Zebra’s business, and (c) use Aggregate 
 
 and help address and/or prevent actual or potential unlawful activity.
 
-6\.
 
-LOCATION INFORMATION. The Software may enable Licensee to collect location-based
+
+6\.    LOCATION INFORMATION. The Software may enable Licensee to collect location-based
 
 data from one or more client devices which may allow Licensee to track the actual location of
 
@@ -188,11 +178,9 @@ from or related to third-party claims resulting from Licensee’s use or misuse 
 
 based data.
 
-[7.](https://www.zebra.com/us/en/about-zebra/company-information/legal/privacy-statement.html)
 
-[PRIVACY.](https://www.zebra.com/us/en/about-zebra/company-information/legal/privacy-statement.html)[ ](https://www.zebra.com/us/en/about-zebra/company-information/legal/privacy-statement.html)[Zebra’s](https://www.zebra.com/us/en/about-zebra/company-information/legal/privacy-statement.html)[ ](https://www.zebra.com/us/en/about-zebra/company-information/legal/privacy-statement.html)[Privacy](https://www.zebra.com/us/en/about-zebra/company-information/legal/privacy-statement.html)[ ](https://www.zebra.com/us/en/about-zebra/company-information/legal/privacy-statement.html)[Policy](https://www.zebra.com/us/en/about-zebra/company-information/legal/privacy-statement.html)[ ](https://www.zebra.com/us/en/about-zebra/company-information/legal/privacy-statement.html)[(located](https://www.zebra.com/us/en/about-zebra/company-information/legal/privacy-statement.html)[ ](https://www.zebra.com/us/en/about-zebra/company-information/legal/privacy-statement.html)[at:](https://www.zebra.com/us/en/about-zebra/company-information/legal/privacy-statement.html)[ ](https://www.zebra.com/us/en/about-zebra/company-information/legal/privacy-statement.html)[https://www.zebra.com/us/en/about-](https://www.zebra.com/us/en/about-zebra/company-information/legal/privacy-statement.html)
 
-[zebra/company-information/legal/privacy-statement.html](https://www.zebra.com/us/en/about-zebra/company-information/legal/privacy-statement.html)[ ](https://www.zebra.com/us/en/about-zebra/company-information/legal/privacy-statement.html)[),](https://www.zebra.com/us/en/about-zebra/company-information/legal/privacy-statement.html)[ ](https://www.zebra.com/us/en/about-zebra/company-information/legal/privacy-statement.html)[as](https://www.zebra.com/us/en/about-zebra/company-information/legal/privacy-statement.html)[ ](https://www.zebra.com/us/en/about-zebra/company-information/legal/privacy-statement.html)[amended](https://www.zebra.com/us/en/about-zebra/company-information/legal/privacy-statement.html)[ ](https://www.zebra.com/us/en/about-zebra/company-information/legal/privacy-statement.html)[from](https://www.zebra.com/us/en/about-zebra/company-information/legal/privacy-statement.html)[ ](https://www.zebra.com/us/en/about-zebra/company-information/legal/privacy-statement.html)[time](https://www.zebra.com/us/en/about-zebra/company-information/legal/privacy-statement.html)[ ](https://www.zebra.com/us/en/about-zebra/company-information/legal/privacy-statement.html)[to](https://www.zebra.com/us/en/about-zebra/company-information/legal/privacy-statement.html)[ ](https://www.zebra.com/us/en/about-zebra/company-information/legal/privacy-statement.html)[ti](https://www.zebra.com/us/en/about-zebra/company-information/legal/privacy-statement.html)me, is
+7\.    PRIVACY. Zebra’s Privacy Policy (located at:[https://www.zebra.com/us/en/about-zebra/company-information/legal/privacy-statement.html](https://www.zebra.com/us/en/about-zebra/company-information/legal/privacy-statement.html)), as amended from time to time, is
 
 hereby incorporated by reference into this EULA. If end users submit personal data to Zebra in
 
@@ -202,21 +190,21 @@ uses that data are regulated by Zebra’s Privacy Policy in accordance with appl
 
 is committed to GDPR compliance and Zebra’s GDPR Addendum (located
 
-at: <https://www.zebra.com/us/en/about-zebra/company-information/legal/gdpr.html>[ ](https://www.zebra.com/us/en/about-zebra/company-information/legal/gdpr.html))
+at: [https://www.zebra.com/us/en/about-zebra/company-information/legal/gdpr.html](https://www.zebra.com/us/en/about-zebra/company-information/legal/gdpr.html) )
 
 supplements Zebra’s Privacy Policy to the extent personal data is provided to Zebra and the
 
 GDPR is applicable to the end user.
 
-8\.
 
-SOFTWARE RELEASES. Zebra may periodically release new versions of the Software
+
+8\.    SOFTWARE RELEASES. Zebra may periodically release new versions of the Software
 
 which will be made available to Licensee.
 
-9\.
 
-EXPORT RESTRICTIONS. Licensee acknowledges that the Software is subject to export
+
+9\.    EXPORT RESTRICTIONS. Licensee acknowledges that the Software is subject to export
 
 restrictions of various countries. Licensee agrees to comply with all applicable international and
 
@@ -224,7 +212,9 @@ national laws that apply to the Software, including all the applicable export re
 
 regulations.
 
-10\. ASSIGNMENT. Licensee may not assign this EULA or any of Licensee’s rights or
+
+
+10\.    ASSIGNMENT. Licensee may not assign this EULA or any of Licensee’s rights or
 
 obligations hereunder (by operation of law or otherwise) without the prior written consent of
 
@@ -234,7 +224,9 @@ Subject to the foregoing, this EULA shall be binding upon and inure to the benef
 
 to it and their respective legal representatives, successors and permitted assigns.
 
-11\. TERMINATION. This EULA is effective until terminated. Licensee’s rights under this EULA
+
+
+11\.    TERMINATION. This EULA is effective until terminated. Licensee’s rights under this EULA
 
 will terminate automatically without notice from Zebra if Licensee fails to comply with any of the
 
@@ -244,15 +236,13 @@ superseding agreement for the Software or for any new release of the Software an
 
 Licensee’s continued use of the Software or such new release on Licensee’s acceptance of such
 
-
-
-<a name="br4"></a> 
-
 superseding agreement. Upon termination of this EULA, Licensee must cease all use of the
 
 Software and destroy all copies, full or partial, of the Software.
 
-12\. DISCLAIMER OF WARRANTY. UNLESS SEPARATELY STATED IN A WRITTEN EXPRESS
+
+
+12\.    DISCLAIMER OF WARRANTY. UNLESS SEPARATELY STATED IN A WRITTEN EXPRESS
 
 LIMITED WARRANTY, ALL SOFTWARE PROVIDED BY ZEBRA IS PROVIDED “AS IS” AND ON
 
@@ -294,7 +284,9 @@ TO ALTER THIS DISCLAIMER BY ZEBRA OF WARRANTY REGARDING THE SOFTWARE, OR
 
 TO CREATE ANY WARRANTY OF ANY SORT FROM ZEBRA.
 
-13\. THIRD-PARTY APPLICATIONS. Certain third-party applications may be included with or
+
+
+13\.    THIRD-PARTY APPLICATIONS. Certain third-party applications may be included with or
 
 downloaded with this Software. Zebra makes no representations whatsoever about any of these
 
@@ -326,10 +318,6 @@ such a policy exists. ZEBRA DISCLAIMS ANY RESPONSIBILITY FOR ANY DISCLOSURE OF
 
 INFORMATION OR ANY OTHER PRACTICES OF ANY THIRD-PARTY APPLICATION
 
-
-
-<a name="br5"></a> 
-
 PROVIDER. ZEBRA EXPRESSLY DISCLAIMS ANY WARRANTY REGARDING WHETHER
 
 LICENSEE’S PERSONAL INFORMATION IS CAPTURED BY ANY THIRD-PARTY APPLICATION
@@ -338,7 +326,9 @@ PROVIDER OR THE USE TO WHICH SUCH PERSONAL INFORMATION MAY BE PUT BY
 
 SUCH THIRD-PARTY APPLICATION PROVIDER.
 
-14\. LIMITATION OF LIABILITY. ZEBRA WILL NOT BE LIABLE FOR ANY DAMAGES OF ANY
+
+
+14\.    LIMITATION OF LIABILITY. ZEBRA WILL NOT BE LIABLE FOR ANY DAMAGES OF ANY
 
 KIND ARISING OUT OF OR RELATING TO THE USE OR THE INABILITY TO USE THE
 
@@ -378,7 +368,9 @@ APPLY TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, EVEN IF ANY
 
 REMEDY FAILS ITS ESSENTIAL PURPOSE.
 
-15\. INJUNCTIVE RELIEF. Licensee acknowledges that, in the event Licensee breaches any
+
+
+15\.    INJUNCTIVE RELIEF. Licensee acknowledges that, in the event Licensee breaches any
 
 provision of this EULA, Zebra will not have an adequate remedy in money or damages. Zebra
 
@@ -388,7 +380,9 @@ competent jurisdiction immediately upon request without posting bond. Zebra's ri
 
 injunctive relief shall not limit its right to seek further remedies.
 
-16\. MODIFICATION. No modification of this EULA shall be binding unless it is in writing and is
+
+
+16\.    MODIFICATION. No modification of this EULA shall be binding unless it is in writing and is
 
 signed by an authorized representative of the party against whom enforcement of the
 
@@ -396,17 +390,15 @@ modification is sought. Continued usage of the Software shall, following modific
 
 updated EULA, constitute consent to be bound by the updated terms.
 
-17\. U.S. GOVERNMENT END USERS RESTRICTED RIGHTS. This provision only applies to
+
+
+17\.    U.S. GOVERNMENT END USERS RESTRICTED RIGHTS. This provision only applies to
 
 U.S. Government end users. The Software is a “commercial item” as that term is defined at 48
 
 C.F.R. Part 2.101, consisting of “commercial computer software” and “computer software
 
 documentation” as such terms are defined in 48 C.F.R. Part 252.227-7014(a)(1) and 48 C.F.R.
-
-
-
-<a name="br6"></a> 
 
 Part 252.227-7014(a)(5), and used in 48 C.F.R. Part 12.212 and 48 C.F.R. Part 227.7202, as
 
@@ -420,7 +412,9 @@ Government end users (a) only as a commercial item, and (b) with only those righ
 
 granted to all other end users pursuant to the terms and conditions contained herein.
 
-18\. APPLICABLE LAW. This EULA is governed by the laws of the state of Illinois, without
+
+
+18\.    APPLICABLE LAW. This EULA is governed by the laws of the state of Illinois, without
 
 regard to its conflict of law provisions. This EULA shall not be governed by the UN Convention
 
