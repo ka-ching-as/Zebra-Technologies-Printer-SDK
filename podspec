@@ -7,7 +7,7 @@ Pod::Spec.new do |spec|
   spec.description        = "Zebra Technologies Printer SDK for iOS applications"
   spec.homepage           = "https://www.zebra.com/"
   spec.documentation_url  = "https://techdocs.zebra.com/link-os/2-13/ios/"
-  spec.license = { :type => 'Commercial', :file => 'ZEBRA_SDK_EULA.pdf' }
+  spec.license = { :type => 'Commercial', :file => 'ZEBRA_SDK_EULA.md' }
   spec.author             = { "Zebra Technologies" => "..." }
   spec.source            = { :http => 'https://github.com/ZebraDevs/Zebra-Technologies-Printer-SDK/archive/refs/tags/1.6.1068.zip' }
   spec.ios.vendored_frameworks = 'ZSDK_API.xcframework'
