@@ -22,6 +22,7 @@ LICENSEE MAY NOT USE THE SOFTWARE.
 \
 \
 \
+\
 1\. &emsp;&emsp; GRANT OF LICENSE. Zebra grants Licensee, the following rights provided that Licensee
 
 complies with all terms and conditions of this EULA: For Software provided with Zebra hardware,
@@ -82,6 +83,7 @@ products.
 \
 \
 \
+\
 2\. &emsp;&emsp; RESERVATION OF RIGHTS AND OWNERSHIP. Zebra and its suppliers and licensors
 
 reserve all rights not expressly granted to Licensee in this EULA. The Software is protected by
@@ -104,7 +106,7 @@ any nature whatsoever under or by reason of this EULA.
 \
 \
 \
-
+\
 3\. &emsp;&emsp; LIMITATIONS ON END USER RIGHTS. Licensee shall not distribute, sublicense, rent,
 
 loan, lease, export, re-export, resell, ship or divert or cause to be exported, re-exported, resold,
@@ -127,7 +129,7 @@ should the Software be equipped with such a protection device.
 \
 \
 \
-
+\
 4\. &emsp;&emsp; MACHINE DATA. “Machine Data” means usage data collected by software or devices sold
 
 (or licensed) under this EULA such as battery management (time to empty, standby current,
@@ -150,7 +152,7 @@ Zebra a limited, irrevocable, non-exclusive right and license to use Machine Dat
 \
 \
 \
-
+\
 5\. &emsp;&emsp; AGGREGATE DATA COLLECTION. Licensee acknowledges and agrees that Zebra may as
 
 permitted by law (a) collect, process, and use aggregated data, stored by or related to the
@@ -171,7 +173,7 @@ and help address and/or prevent actual or potential unlawful activity.
 \
 \
 \
-
+\
 6\. &emsp;&emsp; LOCATION INFORMATION. The Software may enable Licensee to collect location-based
 
 data from one or more client devices which may allow Licensee to track the actual location of
@@ -183,6 +185,7 @@ location-based data. Licensee agrees to pay all reasonable costs and expenses of
 from or related to third-party claims resulting from Licensee’s use or misuse of the location-
 
 based data.
+\
 \
 \
 \
@@ -204,9 +207,11 @@ GDPR is applicable to the end user.
 \
 \
 \
+\
 8\. &emsp;&emsp; SOFTWARE RELEASES. Zebra may periodically release new versions of the Software
 
 which will be made available to Licensee.
+\
 \
 \
 \
@@ -220,6 +225,7 @@ regulations.
 \
 \
 \
+\
 10\. &emsp;&emsp; ASSIGNMENT. Licensee may not assign this EULA or any of Licensee’s rights or
 
 obligations hereunder (by operation of law or otherwise) without the prior written consent of
@@ -229,6 +235,7 @@ Zebra. Zebra may assign this EULA and its rights and obligations without License
 Subject to the foregoing, this EULA shall be binding upon and inure to the benefit of the parties
 
 to it and their respective legal representatives, successors and permitted assigns.
+\
 \
 \
 \
@@ -245,6 +252,7 @@ Licensee’s continued use of the Software or such new release on Licensee’s a
 superseding agreement. Upon termination of this EULA, Licensee must cease all use of the
 
 Software and destroy all copies, full or partial, of the Software.
+\
 \
 \
 \
@@ -292,6 +300,7 @@ TO CREATE ANY WARRANTY OF ANY SORT FROM ZEBRA.
 \
 \
 \
+\
 13\. &emsp;&emsp; THIRD-PARTY APPLICATIONS. Certain third-party applications may be included with or
 
 downloaded with this Software. Zebra makes no representations whatsoever about any of these
@@ -331,6 +340,7 @@ LICENSEE’S PERSONAL INFORMATION IS CAPTURED BY ANY THIRD-PARTY APPLICATION
 PROVIDER OR THE USE TO WHICH SUCH PERSONAL INFORMATION MAY BE PUT BY
 
 SUCH THIRD-PARTY APPLICATION PROVIDER.
+\
 \
 \
 \
@@ -376,6 +386,7 @@ REMEDY FAILS ITS ESSENTIAL PURPOSE.
 \
 \
 \
+\
 15\. &emsp;&emsp; INJUNCTIVE RELIEF. Licensee acknowledges that, in the event Licensee breaches any
 
 provision of this EULA, Zebra will not have an adequate remedy in money or damages. Zebra
@@ -388,6 +399,7 @@ injunctive relief shall not limit its right to seek further remedies.
 \
 \
 \
+\
 16\. &emsp;&emsp; MODIFICATION. No modification of this EULA shall be binding unless it is in writing and is
 
 signed by an authorized representative of the party against whom enforcement of the
@@ -395,6 +407,7 @@ signed by an authorized representative of the party against whom enforcement of 
 modification is sought. Continued usage of the Software shall, following modification to the
 
 updated EULA, constitute consent to be bound by the updated terms.
+\
 \
 \
 \
@@ -417,6 +430,7 @@ Code of Federal Regulations, as applicable, the Software is distributed and lice
 Government end users (a) only as a commercial item, and (b) with only those rights as are
 
 granted to all other end users pursuant to the terms and conditions contained herein.
+\
 \
 \
 \
