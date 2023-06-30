@@ -5,7 +5,7 @@ Pod::Spec.new do |spec|
   spec.ios.deployment_target = '12.0'
   spec.summary            = "Zebra Technologies Printer SDK"
   spec.description        = "Zebra Technologies Printer SDK for iOS applications"
-  spec.homepage           = "https://www.zebra.com/"
+  spec.homepage           = "https://developer.zebra.com/products/printers/link-os-multiplatform-sdk"
   spec.documentation_url  = "https://techdocs.zebra.com/link-os/2-13/ios/"
   spec.license = { :type => 'Commercial', :file => 'ZEBRA_SDK_EULA.md' }
   spec.author             = { "Zebra Technologies" => "..." }
