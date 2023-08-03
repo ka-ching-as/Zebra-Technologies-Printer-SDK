@@ -4,17 +4,17 @@
 import PackageDescription
 
 let package = Package(
-    name: "ZSDK_API",
+    name: "ZSDK",
     platforms: [.iOS(.v12)],
     products: [
         .library(
-            name: "ZSDK_API",
-            targets: ["ZSDK_API"]),
+            name: "ZSDK",
+            targets: ["ZSDK"]),
     ],
     dependencies: [],
     targets: [
         .binaryTarget(
-            name: "ZSDK_API",
+            name: "ZSDK",
             path: "ZSDK_API.xcframework")
     ]
 )
